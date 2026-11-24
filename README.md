@@ -13,17 +13,13 @@ https://mo7amed214.github.io/terminal
 **From your own terminal** (Python 3.8+, no dependencies):
 
 ```sh
-pipx run --spec git+https://github.com/mo7amed214/terminal ragab
-```
-
-or install it:
-
-```sh
 pip install git+https://github.com/mo7amed214/terminal
-ragab
+python -m ragab
 ```
 
-If `ragab` isn't found (common on Windows, where Python's Scripts folder often isn't on PATH), run `python -m ragab` instead.
+With pipx you can run it without installing: `pipx run --spec git+https://github.com/mo7amed214/terminal ragab`.
+
+The portrait is 80 columns wide; in a narrower window you get a smaller version.
 
 **Just the card:**
 
