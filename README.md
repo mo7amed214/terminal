@@ -23,6 +23,8 @@ pip install git+https://github.com/mo7amed214/terminal
 ragab
 ```
 
+If `ragab` isn't found (common on Windows, where Python's Scripts folder often isn't on PATH), run `python -m ragab` instead.
+
 **Just the card:**
 
 ```sh
