@@ -301,12 +301,34 @@
   });
 
   // ---- connect ---------------------------------------------------------------
+  // Grey level per character, so the portrait reads like a photo rather than flat text.
+  var RAMP = " .,:;i1tfLCG08@";
+  function shade(art) {
+    var html = "", run = "", level = -1;
+    function flush() {
+      if (!run) return;
+      var g = Math.round(92 + (243 - 92) * level / (RAMP.length - 1));
+      html += '<span style="color:rgb(' + g + "," + (g - 2) + "," + (g - 6) + ')">' + esc(run) + "</span>";
+      run = "";
+    }
+    for (var i = 0; i < art.length; i++) {
+      var ch = art.charAt(i);
+      if (ch === " " || ch === "\n") { flush(); html += ch; level = -1; continue; }
+      var k = RAMP.indexOf(ch);
+      if (k < 0) k = 7;
+      if (k !== level) { flush(); level = k; }
+      run += ch;
+    }
+    flush();
+    return html;
+  }
+
   function banner() {
     var pre = document.createElement("pre");
     pre.className = "portrait";
     pre.setAttribute("role", "img");
     pre.setAttribute("aria-label", "ASCII portrait of Mohamed Ashraf Ragab");
-    pre.textContent = D.portrait.web;
+    pre.innerHTML = shade(D.portrait.web);
     out.appendChild(pre);
     print('<span class="name">' + esc(D.name) + "</span>");
     say(D.tagline, "dim");

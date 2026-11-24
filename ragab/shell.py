@@ -22,6 +22,27 @@ class Paint:
     def _w(self, code, text):
         return "\033[%sm%s\033[0m" % (code, text) if self.on else text
 
+    # characters of the portrait, from faint to dense
+    RAMP = " .,:;i1tfLCG08@"
+
+    def shade(self, line):
+        """Colour each portrait character with a grey that matches its density."""
+        if not self.on:
+            return line
+        out, last = [], None
+        for ch in line:
+            if ch == " ":
+                out.append(ch)
+                continue
+            k = self.RAMP.find(ch)
+            level = 241 + round(14 * (k if k >= 0 else 7) / (len(self.RAMP) - 1))
+            if level != last:
+                out.append("\033[38;5;%dm" % level)
+                last = level
+            out.append(ch)
+        out.append("\033[0m")
+        return "".join(out)
+
     def red(self, t):    return self._w("91", t)
     def redb(self, t):   return self._w("1;91", t)
     def amber(self, t):  return self._w("33", t)
@@ -81,8 +102,14 @@ class Session:
             time.sleep(s)
 
     def banner(self):
-        for line in DATA["portrait"]["tty"].splitlines():
-            print(self.p.red(line))
+        try:
+            import shutil
+            width = shutil.get_terminal_size((100, 40)).columns
+        except Exception:
+            width = 100
+        art = DATA["portrait"]["tty"] if width >= 82 else DATA["portrait"]["tty_small"]
+        for line in art.splitlines():
+            print(self.p.shade(line))
         print()
         print(self.p.bold(DATA["name"]))
         print(self.p.dim(DATA["tagline"]))
@@ -307,9 +334,11 @@ def card(paint):
     for k, v in DATA["links"].items():
         print("%s %s" % (paint.dim("%-9s" % k), v))
     print()
-    print(paint.dim("explore the full session:"))
-    print("  " + paint.red("pipx run --spec git+https://github.com/mo7amed214/terminal ragab"))
+    print(paint.dim("explore the full session in your browser:"))
     print("  " + paint.red("https://mo7amed214.github.io/terminal"))
+    print(paint.dim("or in this terminal:"))
+    print("  " + paint.red("pip install git+https://github.com/mo7amed214/terminal"))
+    print("  " + paint.red("python -m ragab"))
 
 
 def main(argv=None):

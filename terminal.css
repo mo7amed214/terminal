@@ -62,9 +62,8 @@ a:hover { color: var(--bright); border-bottom-color: var(--bright); }
 
 .portrait {
   margin: 0.6rem 0 0.8rem;
-  font: 500 7.5px/1 var(--mono);
+  font: 500 8.5px/1 var(--mono);
   color: var(--bright);
-  opacity: 0.92;
   white-space: pre;
   user-select: none;
 }
@@ -122,7 +121,7 @@ a:hover { color: var(--bright); border-bottom-color: var(--bright); }
 @media (max-width: 640px) {
   body { font-size: 13px; }
   .term { padding: 1rem 0.9rem 40vh; }
-  .portrait { font-size: min(7.5px, calc((100vw - 1.8rem) / 50.4)); }
+  .portrait { font-size: min(8.5px, calc((100vw - 1.8rem) / 50.4)); }
 }
 
 @media (prefers-reduced-motion: reduce) {

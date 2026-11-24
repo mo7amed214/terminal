@@ -45,6 +45,7 @@ data = {
     "portrait": {
         "web": read(os.path.join(ROOT, "art", "portrait-web.txt")).rstrip("\n"),
         "tty": read(os.path.join(ROOT, "art", "portrait-tty.txt")).rstrip("\n"),
+        "tty_small": read(os.path.join(ROOT, "art", "portrait-tty-small.txt")).rstrip("\n"),
     },
     "fs": walk(HOME),
 }
