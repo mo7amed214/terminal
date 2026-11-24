@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ragab"
+version = "1.0.0"
+description = "Mohamed Ashraf Ragab's profile as a read-only terminal session"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{ name = "Mohamed Ashraf Ragab" }]
+
+[project.urls]
+Homepage = "https://mo7amed214.github.io"
+Source = "https://github.com/mo7amed214/terminal"
+
+[project.scripts]
+ragab = "ragab.shell:main"
+
+[tool.setuptools]
+packages = ["ragab"]
+
+[tool.setuptools.package-data]
+ragab = ["data.json"]

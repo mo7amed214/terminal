@@ -1,0 +1,7 @@
+guc-events                                                     web
+
+Campus platform for events, vendor booths and facility bookings,
+with role-based access control, conflict-free booking and Stripe
+payments. Dashboards for students, vendors, TAs and admins.
+
+stack: mongodb express react node jwt

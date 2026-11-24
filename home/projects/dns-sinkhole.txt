@@ -1,0 +1,7 @@
+dns-sinkhole                                              security
+
+Pi-hole on a Raspberry Pi Zero, with static addressing and router
+DHCP changes so every device on the network resolves through it.
+Network-wide blocklists and query-log monitoring.
+
+stack: raspberry-pi dns dhcp

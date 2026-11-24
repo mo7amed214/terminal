@@ -1,0 +1,16 @@
+Mohamed Ashraf Ragab
+penetration testing // web · network · OT/ICS
+Cairo, Egypt
+
+Final-year Computer Science and Engineering student at the German
+University in Cairo. I want to do penetration testing for a living,
+and my experience so far covers both sides of it: attacking systems,
+and building the monitoring that should catch the attack.
+
+In 2026 I worked full-time on the web penetration testing team at
+Securenass. For my bachelor thesis I built a high-interaction
+honeypot of a manufacturing plant's operations layer, then broke
+into it myself.
+
+I graduate in 2027 and plan to do a master's in IT security in
+Germany.

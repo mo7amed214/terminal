@@ -1,0 +1,7 @@
+signature-forgery                                               ml
+
+Siamese network with contrastive loss on CEDAR, Bengali and Hindi
+signatures, split by person so no signer leaks between training and
+test. Evaluated with FAR, FRR and EER.
+
+stack: deep-learning computer-vision

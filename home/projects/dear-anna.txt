@@ -1,0 +1,8 @@
+dear-anna                                                     game
+
+A narrative game set in St. Petersburg in 1909, made solo in Unity.
+You answer voiced letters by choosing the words that fill their
+blanks.
+
+source: https://github.com/mo7amed214/dear-anna
+stack: unity c#

@@ -1,0 +1,46 @@
+[91m                        CLt@LfL1tL@@[0m
+[91m                      0LtL;i:;;i1itfft@@8[0m
+[91m                   @@t;111t11tft111;f1;.1iiC0G@@[0m
+[91m                  8C0tft1;:i111ii1;::i1tLi,,1iGC@[0m
+[91m                  @titt1t;i,;i1t;:,::t1;;1ti1t11i:[0m
+[91m                   8ff11;;i:,,:.,.,;ii:..:iLfiftt1i[0m
+[91m                   @@@Gfi11:,,,.:1if.;fft1;;,,itLCG@[0m
+[91m                  @@@@@@0GCftti:if1:.iiiftt....:11tfL8[0m
+[91m                 @@@@@@@@@@@@8Lii;i,......11...,.:i11tf[0m
+[91m                @@@@@@@@@@@@0GLi:.,;;i:.::.:11,;:it;111@[0m
+[91m               @@@@@@@@@@@@8L1:ii:::,:11,;,;1i;..;1t:10L[0m
+[91m              f@@@@:1LG@@@@@@f1i::,,;,,,ii;:.,f1i.::.iLG[0m
+[91m             @@@ @1fLttt111fG@L::;,,;,.,,:;..,.:i:;:;ti0[0m
+[91m           @@@@@@@1@@@@@@@8CLi:...,,....:...:,.:i;;i:i0[0m
+[91m          @@@@@G@G@@@@@@@@@@@Lii::fCC801.,:;::i,,;;::1@[0m
+[91m           LtCCf@@@@@@@@@888@Ci0@@88@@@@t.::....;it1;f[0m
+[91m           @tf@@@@@@@@@800GG0@@@@@1L@@@@i......:ii;t8[0m
+[91m            @0GLt@@@@@@@88888@@@@@@@@@@;..,,,....;L@[0m
+[91m           @@@@@@@@@@@@88008@@C@@@@@8t...,,,,,:18[0m
+[91m           @@@@@@@880GGG008888Ctttfii,..,,,.:,,0[0m
+[91m          @@@@@@@8880GGG000GGG000G0L.,,,,..,L@[0m
+[91m          C1111i1tLCCCCCCCCC08@@@@0fi..,:t8[0m
+[91m           8L0CL0GftCLCGG08@@@@@@@8Cfiii8[0m
+[91m                   @G8@@@@@@@@@@@@@@08@@[0m
+[91m                    @@@@@@@@@@@@@@@@@@@[0m
+[91m                    @@@@@@@@@@@@@@@@00@@[0m
+[91m                    @@@@@8GCLf1iiii1tt1fG@[0m
+[91m                    @i1;iii11tfCCCCLLLLfLL@[0m
+[91m                    LLCCGGCGG0GCfttttt1i:::L@[0m
+[91m                   CCCCCCCCCCL11fffffffLLti...[0m
+
+[1mMohamed Ashraf Ragab[0m
+[2mpenetration testing // web · network · OT/ICS[0m
+
+[91m[+][0m final-year CS & Engineering, German University in Cairo
+[91m[+][0m web pentest intern at Securenass, Jun-Sep 2026
+[33m[~][0m HTB CPTS in progress
+[91m[*][0m open to penetration testing roles
+
+[2mlinkedin [0m https://www.linkedin.com/in/mohamed-ashraf-ragab/
+[2mgithub   [0m https://github.com/mo7amed214
+[2msite     [0m https://mo7amed214.github.io
+
+[2mexplore the full session:[0m
+  [91mpipx run --spec git+https://github.com/mo7amed214/terminal ragab[0m
+  [91mhttps://mo7amed214.github.io/terminal[0m

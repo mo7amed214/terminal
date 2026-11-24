@@ -1,0 +1,108 @@
+{
+ "user": "guest",
+ "host": "ragab",
+ "name": "Mohamed Ashraf Ragab",
+ "tagline": "penetration testing // web · network · OT/ICS",
+ "links": {
+  "linkedin": "https://www.linkedin.com/in/mohamed-ashraf-ragab/",
+  "github": "https://github.com/mo7amed214",
+  "site": "https://mo7amed214.github.io"
+ },
+ "portrait": {
+  "web": "                                    fG     CtG\n                                  iiiL0Ctff11iiG@\n                                @it0t,L1:;;:i111CLt1L\n                              f1t1tii:i;,;ii1i1111tt;t@Ltf\n                           G0G1i11iitt;;1t11ii;iiitt;1t:ii;f@CfC\n                          0fC111ttii;;11i;tt11ii1i:f1:;,1L:,;tGttGf\n                          tL@t11ii;i::11i11;,:ii;:;:1;i1t1,.::1i1@1t\n                         Gfttift11i;;i,:;;;;;i;:.:;.,1f1t;i1i;i111LLff\n                         Gf11it111t:ii,;1;;i1:,,;:,ift.i;i1i;111ti1;::;\n                          01t1t1ii;;;;:,::;;::1::;::ii....:;:1iiii;11i,t\n                           L1tttt1::ii;,,,:..:...:;;i;:..;;1tLi;if11ti;8\n                           @88f111ii1;,::,:..,:;11;.,;t1i,,:ii::1111tff8\n                          @@@@@0L1i11ii;,;:,.;f;i1;.1ti;t11;......;tttf1L\n                         @@@@@@@0CLfft1ii1;,::i;,,,.;;;ittit;.,,.,iiiiitif1\n                        @@@@@@888800GCCCLf1;ii1tt,.,,,,:,..;i,.,...,;;itt11f@\n                       @@@@@@8888880GCGGCCf;;;,.:,,.......:11:,,..,.,;;ii1fi;\n                      @@@@@@88888880G00GCLt1;::.,:,,,,,.;,,,.:,;,ii;,:i;;1;ii8\n                     @@@@@@@@888000008GLfff1::::;;:ii;:.:;:.:;it;,:,:i1i;iit1t\n                     @@880@@@@@8000080GLft;,ii;:,:,,,;i:..,::;i;:...:,;ii;iC8,\n                    @@CG8GCfC8@@@8000GCft::;;;,,..,,,:t;:1..,,..:1,.,::1i,.1f1\n                    ,C  @@C.:;1fG8@@@80Lti;i;;,:;.;;....;i:;i.::it1;i.;:..::tf\n                   Lf   @@.tfttii;;1L0@@@8fi.,:,,:;;:,...,:i,..,:,;;;.,.,:10L:\n                 @@@0  @@ti@ftfLLf1i:,:iLGfi:;;:..:,,,.,:,:,...,...;::i:;;;i,C\n                @@8@f@@@@.LLLLLLCG00GLfi:,..,,:;i;::::;i:,....:...:i:i:i;:;.f\n               @@88@L0@@;1@888888@@@888@Gti:...,,..,,...,:,,,:;::.::::,i;:i0\n              @@@@@@0f@f1@@@@@@@8888088@G1ti::,:1CCG00L..,.,,:,,;;:.;:;:,::t\n              LGG08@G;t0@@@@@@888000GGGGGt.1fttL0LifCL00.,,;;,,,:,..;;i;:i;1\n               1;;it1tG@@@@88000GGGCCCLCCLifCG0GLL@8@0f@f.,.:,....,,;:1ii;i\n               @G11C8@8G@8000GGGGCCLLLLLCC000@@fti0@8CC@f.,...,,,.:i1i1if1t\n                0ttL0GGCG8GGGGGGGCCCCCCCCC0G08L11tt@GC@0.......,.,,:;,;it@\n                @@ftt1i;f@0GGGCGGCCCCCCCGGCG0LtGGC@00@C..,,,,,,.,...,;ii\n                @@80GCG0@8GGG0GGGGGCCCCGGGC@@@@@8GC0@1....,,,:,,,,.,,t@\n                C08@@@@@@GCGGG0GCCCCCCCGGGLt@@@@888C,...,,....,,:;tf0\n                CG888@@80CCCCCCLLLLLCCGCCCL11tttf11;,,..,,:,.:,;::1@\n               @@@@@8880GGCCLLLLLLLCCCCCCCCLt111t;:1;,.,,.,,.;i:,:\n               8@@@@@80GCCCCLLLLLLCCCCCCCCLLLLLLLLi.:,,::..,,::10\n              C0GG880GCLLLLCLLLLLLLLLLfLLLLCGGGCCfi..,,,,:;.,t8\n              ft11tt11ttffLLLffffffffffLCCG00GGCL1i;,..:,::f@\n               ;;,,,.,::;11tffffLLLLLLCG00000GGCLft1;,;i1C@\n                 L@@CG88Gt1fffLLLLCCCG0888000GGCCLt1i1t1f\n                          8fLLCCCCGG0088800000GGGCLffLi1\n                           0LCGGGG0088888800000GGGGG0@@\n                            CGGG008888888888800GGGG08@\n                            @GG0088@888888888088@@@@@@\n                            @8808@@@@@@@@@@@@@@80GLLLL@\n                            @8@@@@@@@@@80Ct1ii;;;;;;;;;tt@\n                            @@8GLftii;::::;;ii1tttfftt1tfi1\n                            8;;;;;;;i111ttttffffffffffLfLCLC\n                            LitttfffffffffLLLfftt111i;;;i1ffC\n                            ffLLLLLffffffLfft1i11111t11;:.,;iL8\n                           tfffffffffffffft1i1ttt1t11tttt1;,..,:C\n                          ftffffffffffffftiitt1111111111tftti::,.;",
+  "tty": "                        CLt@LfL1tL@@\n                      0LtL;i:;;i1itfft@@8\n                   @@t;111t11tft111;f1;.1iiC0G@@\n                  8C0tft1;:i111ii1;::i1tLi,,1iGC@\n                  @titt1t;i,;i1t;:,::t1;;1ti1t11i:\n                   8ff11;;i:,,:.,.,;ii:..:iLfiftt1i\n                   @@@Gfi11:,,,.:1if.;fft1;;,,itLCG@\n                  @@@@@@0GCftti:if1:.iiiftt....:11tfL8\n                 @@@@@@@@@@@@8Lii;i,......11...,.:i11tf\n                @@@@@@@@@@@@0GLi:.,;;i:.::.:11,;:it;111@\n               @@@@@@@@@@@@8L1:ii:::,:11,;,;1i;..;1t:10L\n              f@@@@:1LG@@@@@@f1i::,,;,,,ii;:.,f1i.::.iLG\n             @@@ @1fLttt111fG@L::;,,;,.,,:;..,.:i:;:;ti0\n           @@@@@@@1@@@@@@@8CLi:...,,....:...:,.:i;;i:i0\n          @@@@@G@G@@@@@@@@@@@Lii::fCC801.,:;::i,,;;::1@\n           LtCCf@@@@@@@@@888@Ci0@@88@@@@t.::....;it1;f\n           @tf@@@@@@@@@800GG0@@@@@1L@@@@i......:ii;t8\n            @0GLt@@@@@@@88888@@@@@@@@@@;..,,,....;L@\n           @@@@@@@@@@@@88008@@C@@@@@8t...,,,,,:18\n           @@@@@@@880GGG008888Ctttfii,..,,,.:,,0\n          @@@@@@@8880GGG000GGG000G0L.,,,,..,L@\n          C1111i1tLCCCCCCCCC08@@@@0fi..,:t8\n           8L0CL0GftCLCGG08@@@@@@@8Cfiii8\n                   @G8@@@@@@@@@@@@@@08@@\n                    @@@@@@@@@@@@@@@@@@@\n                    @@@@@@@@@@@@@@@@00@@\n                    @@@@@8GCLf1iiii1tt1fG@\n                    @i1;iii11tfCCCCLLLLfLL@\n                    LLCCGGCGG0GCfttttt1i:::L@\n                   CCCCCCCCCCL11fffffffLLti..."
+ },
+ "fs": {
+  "type": "dir",
+  "children": {
+   "about.txt": {
+    "type": "file",
+    "content": "Mohamed Ashraf Ragab\npenetration testing // web · network · OT/ICS\nCairo, Egypt\n\nFinal-year Computer Science and Engineering student at the German\nUniversity in Cairo. I want to do penetration testing for a living,\nand my experience so far covers both sides of it: attacking systems,\nand building the monitoring that should catch the attack.\n\nIn 2026 I worked full-time on the web penetration testing team at\nSecurenass. For my bachelor thesis I built a high-interaction\nhoneypot of a manufacturing plant's operations layer, then broke\ninto it myself.\n\nI graduate in 2027 and plan to do a master's in IT security in\nGermany.\n"
+   },
+   "contact.txt": {
+    "type": "file",
+    "content": "Open to penetration testing and offensive security roles.\nThe quickest way to reach me is a message on LinkedIn.\n\nlinkedin   https://www.linkedin.com/in/mohamed-ashraf-ragab/\ngithub     https://github.com/mo7amed214\nwebsite    https://mo7amed214.github.io\n\nTip: type  open linkedin\n"
+   },
+   "education.txt": {
+    "type": "file",
+    "content": "B.Eng. Computer Science and Engineering               2022 - 2027\nGerman University in Cairo · Faculty of Media Engineering and Technology\n\nHack The Box Academy                                       ongoing\nWorking toward the Certified Penetration Testing Specialist (CPTS).\nEarlier self-study of the CompTIA Security+, Network+ and CySA+\nmaterial.\n"
+   },
+   "experience": {
+    "type": "dir",
+    "children": {
+     "securenass.txt": {
+      "type": "file",
+      "content": "Penetration Testing Intern                           Jun - Sep 2026\nSecurenass · Web Penetration Testing department · full-time\n\n- Tested web applications with Burp Suite, intercepting, modifying\n  and replaying requests to find and confirm vulnerabilities.\n- SQL injection testing with SQLmap, network and service enumeration\n  with Nmap, and exploitation with the Metasploit Framework on Kali\n  Linux.\n\ntools: burp-suite sqlmap nmap metasploit kali\n"
+     }
+    }
+   },
+   "languages.txt": {
+    "type": "file",
+    "content": "Arabic     native\nEnglish    fluent\nGerman     A2\nRussian    A2\n"
+   },
+   "projects": {
+    "type": "dir",
+    "children": {
+     "dear-anna.txt": {
+      "type": "file",
+      "content": "dear-anna                                                     game\n\nA narrative game set in St. Petersburg in 1909, made solo in Unity.\nYou answer voiced letters by choosing the words that fill their\nblanks.\n\nsource: https://github.com/mo7amed214/dear-anna\nstack: unity c#\n"
+     },
+     "dns-sinkhole.txt": {
+      "type": "file",
+      "content": "dns-sinkhole                                              security\n\nPi-hole on a Raspberry Pi Zero, with static addressing and router\nDHCP changes so every device on the network resolves through it.\nNetwork-wide blocklists and query-log monitoring.\n\nstack: raspberry-pi dns dhcp\n"
+     },
+     "f1-podium-xai.txt": {
+      "type": "file",
+      "content": "f1-podium-xai                                                   ml\n\nTeam project predicting Formula 1 podiums from 1950-2024 race data,\nwith leakage-safe features and a chronological split. I owned the\nexplainability work: permutation importance, Kernel SHAP and LIME.\n\nstack: scikit-learn shap lime\n"
+     },
+     "guc-events.txt": {
+      "type": "file",
+      "content": "guc-events                                                     web\n\nCampus platform for events, vendor booths and facility bookings,\nwith role-based access control, conflict-free booking and Stripe\npayments. Dashboards for students, vendors, TAs and admins.\n\nstack: mongodb express react node jwt\n"
+     },
+     "home-soc-lab.txt": {
+      "type": "file",
+      "content": "home-soc-lab                                    security · ongoing\n\nA segmented lab for attacking and then investigating: Windows Server\nwith Active Directory, a Windows 11 client, Kali, and Metasploitable\nand OWASP Juice Shop as targets.\n\nstack: proxmox opnsense vlans wazuh zeek splunk\n"
+     },
+     "os-simulator.txt": {
+      "type": "file",
+      "content": "os-simulator                                               systems\n\nProcess control blocks, ready and blocked queues, semaphores, memory\nframes, and Round Robin, FCFS and priority scheduling, with a GTK-3\ninterface.\n\nstack: c gtk3\n"
+     },
+     "signature-forgery.txt": {
+      "type": "file",
+      "content": "signature-forgery                                               ml\n\nSiamese network with contrastive loss on CEDAR, Bengali and Hindi\nsignatures, split by person so no signer leaks between training and\ntest. Evaluated with FAR, FRR and EER.\n\nstack: deep-learning computer-vision\n"
+     },
+     "station-7.txt": {
+      "type": "file",
+      "content": "station-7                                                 embedded\n\nC drivers and a test harness for an MPU-6050 IMU, a three-servo\ngimbal, a DC motor, a 16x2 LCD, capacitive touch keys, an ArUco\ncamera, an electromagnetic lock, LEDs and a buzzer.\n\nstack: c embedded\n"
+     }
+    }
+   },
+   "skills.txt": {
+    "type": "file",
+    "content": "--offensive    Burp Suite, Metasploit, SQLmap, Nmap, Kali Linux,\n               SMB/SSH enumeration, ARP spoofing\n--defensive    Wazuh, Zeek, Sysmon, Splunk, Grafana, Loki\n--ot-ics       Purdue model, OPC UA, historians, MITRE ATT&CK for ICS\n--infra        Linux, Docker, Proxmox, OPNsense/pfSense, VLANs,\n               Active Directory, Windows Server\n--code         Python, C, C++, Java, JavaScript, C#\n--ml           scikit-learn, TensorFlow/Keras, SHAP, LIME, Hugging Face\n"
+   },
+   "status.txt": {
+    "type": "file",
+    "content": "[+] final-year CS & Engineering, German University in Cairo\n[+] web pentest intern at Securenass, Jun-Sep 2026\n[~] HTB CPTS in progress\n[*] open to penetration testing roles\n"
+   },
+   "thesis": {
+    "type": "dir",
+    "children": {
+     "attack-chain.sh": {
+      "type": "file",
+      "content": "#!/bin/sh\n# Replays the attack chain from the thesis, one step at a time.\nstep \"credentials found in an anonymous SMB share\"\nstep \"SSH into the engineering workstation\"\nstep \"Nmap reconnaissance of the plant network\"\nstep \"SMB share browsed for project files\"\nstep \"process historian accessed\"\nstep \"OPC UA address space browsed\"\nstep \"ARP man-in-the-middle established\"\nimpact \"live tag values rewritten over OPC UA\"\n",
+      "exec": true
+     },
+     "README.md": {
+      "type": "file",
+      "content": "Modeling Purdue Level 3 for an Industrial Honeypot\nBachelor thesis · Feb - Jun 2026 · German University in Cairo\nSupervised by Dr. Amr Mohamed Saber\n\nA high-interaction honeypot of the operations layer of a\ndiscrete-manufacturing plant, built as one layer of a seven-person\nproject. I built the engineering workstation, a process historian,\nand an OPC UA server in C (open62541) driven by a simulator in which\ntags affect each other, so the plant behaves like a plant instead of\na random-number generator. Then I attacked it.\n\n  attack chain    8 steps, validated end to end\n  detection       26 custom Wazuh rules, Zeek scripts, Sysmon\n  process         15 live tags served over OPC UA\n  session model   94.7% danger-level accuracy on 660 held-out examples\n\n- A quieter variant of the last step writes plausible values instead\n  of obvious spikes.\n- Deception surfaces were picked from MITRE ATT&CK for ICS. A decoy\n  OPC UA endpoint planted in the documentation measurably slowed down\n  an autonomous LLM agent attacking the environment.\n- Grafana dashboards for OT telemetry and SOC triage, and a\n  bidirectional LSTM with attention that classifies attacker sessions\n  by danger level, attack path and intent.\n\nstack: python c/open62541 asyncua docker wazuh zeek sysmon grafana\n\nReplay the attack:  ./attack-chain.sh\n"
+     }
+    }
+   },
+   ".flag.txt": {
+    "type": "file",
+    "content": "flag{h1dd3n_f1l3s_4r3_th3_f1rst_pl4c3_1_l00k}\n\nNice recon. You check hidden files, and so do I.\nIf you need someone who does that for a living:\nhttps://www.linkedin.com/in/mohamed-ashraf-ragab/\n"
+   }
+  }
+ }
+}

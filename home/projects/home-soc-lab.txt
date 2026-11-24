@@ -1,0 +1,7 @@
+home-soc-lab                                    security · ongoing
+
+A segmented lab for attacking and then investigating: Windows Server
+with Active Directory, a Windows 11 client, Kali, and Metasploitable
+and OWASP Juice Shop as targets.
+
+stack: proxmox opnsense vlans wazuh zeek splunk

@@ -1,0 +1,7 @@
+station-7                                                 embedded
+
+C drivers and a test harness for an MPU-6050 IMU, a three-servo
+gimbal, a DC motor, a 16x2 LCD, capacitive touch keys, an ArUco
+camera, an electromagnetic lock, LEDs and a buzzer.
+
+stack: c embedded

@@ -1,0 +1,10 @@
+Penetration Testing Intern                           Jun - Sep 2026
+Securenass · Web Penetration Testing department · full-time
+
+- Tested web applications with Burp Suite, intercepting, modifying
+  and replaying requests to find and confirm vulnerabilities.
+- SQL injection testing with SQLmap, network and service enumeration
+  with Nmap, and exploitation with the Metasploit Framework on Kali
+  Linux.
+
+tools: burp-suite sqlmap nmap metasploit kali

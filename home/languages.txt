@@ -1,0 +1,4 @@
+Arabic     native
+English    fluent
+German     A2
+Russian    A2

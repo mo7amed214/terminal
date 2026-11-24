@@ -1,0 +1,7 @@
+f1-podium-xai                                                   ml
+
+Team project predicting Formula 1 podiums from 1950-2024 race data,
+with leakage-safe features and a chronological split. I owned the
+explainability work: permutation importance, Kernel SHAP and LIME.
+
+stack: scikit-learn shap lime

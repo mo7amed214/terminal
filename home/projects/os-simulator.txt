@@ -1,0 +1,7 @@
+os-simulator                                               systems
+
+Process control blocks, ready and blocked queues, semaphores, memory
+frames, and Round Robin, FCFS and priority scheduling, with a GTK-3
+interface.
+
+stack: c gtk3

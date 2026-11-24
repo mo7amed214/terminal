@@ -1,0 +1,8 @@
+--offensive    Burp Suite, Metasploit, SQLmap, Nmap, Kali Linux,
+               SMB/SSH enumeration, ARP spoofing
+--defensive    Wazuh, Zeek, Sysmon, Splunk, Grafana, Loki
+--ot-ics       Purdue model, OPC UA, historians, MITRE ATT&CK for ICS
+--infra        Linux, Docker, Proxmox, OPNsense/pfSense, VLANs,
+               Active Directory, Windows Server
+--code         Python, C, C++, Java, JavaScript, C#
+--ml           scikit-learn, TensorFlow/Keras, SHAP, LIME, Hugging Face
